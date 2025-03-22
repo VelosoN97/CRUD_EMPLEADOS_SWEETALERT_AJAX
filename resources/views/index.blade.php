@@ -105,7 +105,7 @@ data-bs-backdrop="static" aria-hidden="true">
     <div class="col-lg-12">
       <div class="card shadow">
         <div class="card-header bg-danger d-flex justify-content-between align-items-center">
-          <h3 class="text-light">Lista de Empleados</h3>
+          <h3 class="text-light">Gestión de Empleados</h3>
           <button class="btn btn-light" data-bs-toggle="modal" data-bs-target="#agregarEmpleadoModal"><i
               class="bi-plus-circle me-2"></i>Agregar Empleado</button>
         </div>
